@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "subjects": [
+    {
+      "id": "math",
+      "name": "رياضيات",
+      "enabled": true,
+      "years": {
+        "s3": {
+          "lessons": [],
+          "summaries": [],
+          "exams": [
+            {
+              "title": "bac2017 Mathematiques",
+              "url": "https://hamadainf-byte.github.io/rihla_content/content/secondary/s3/math/exams/bac2017-Mathematiques.pdf"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "physics",
+      "name": "فيزياء",
+      "enabled": true,
+      "years": {}
+    },
+    {
+      "id": "arabic",
+      "name": "عربية",
+      "enabled": true,
+      "years": {}
+    },
+    {
+      "id": "english",
+      "name": "إنجليزية",
+      "enabled": true,
+      "years": {}
+    }
+  ]
+}
